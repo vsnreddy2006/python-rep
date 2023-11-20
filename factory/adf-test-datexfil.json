@@ -1,0 +1,14 @@
+{
+	"name": "adf-test-datexfil",
+	"properties": {
+		"globalConfigurations": {
+			"PolicyValidationEnabled": "true"
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02ae547e-ed1c-434e-819e-e0e37471946b",
+		"tenantId": "f38a5ecd-2813-4862-b11b-ac1d563c806f"
+	}
+}
